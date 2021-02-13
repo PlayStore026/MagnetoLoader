@@ -1,6 +1,10 @@
+{
+  
 type = drive
 client_id = 328346418315-mq26etob20r4jc45piqcmvq14n25m87r.apps.googleusercontent.com
 client_secret = 9E3E42-g6lhtSW48fUZCxb2a
 scope = drive
 root_folder_id = 0AKunEtx1DBERUk9PVA
 token = {"access_token":"ya29.a0AfH6SMBjP81FCpavHm_07RaUwWqa2flRbdahJlqpw_PH2oD93tonB1xG2AhKm_bXTPWF9NGZ7jjWpDa5SRDzqTwOtiE0dLOpCIO4__GIKmeFr7V_uYOSPj-7aYwhxJ7Kn3P4r8ASkUu0tUIrU2uE6FR-G5C809sRY_cLdUbPq6Q","token_type":"Bearer","refresh_token":"1//0g3oz69S7XXMgCgYIARAAGBASNgF-L9Irj5QqbLiUAUGJyIo3qXVleDaWVusZmvrahbFA_tbkMKTuiO2pZpKWEojB1GoDlzTA4A","expiry":"2021-01-16T14:18:32.745166061Z"}
+
+}
