@@ -1,6 +1,6 @@
 {
-    "name": "Telegram Torrent Leecher V2.0 ____ACHIYA____",
-    "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @atvreqs",
+    "name": "Telegram Files Loader ",
+    "description": "A Telegram Loader Bot (and youtube-dl) Leecher based on Pyrogram.",
     "keywords": [
       "telegram",
       "bot",
